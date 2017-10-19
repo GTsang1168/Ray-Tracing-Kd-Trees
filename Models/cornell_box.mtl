@@ -1,0 +1,49 @@
+newmtl white
+Ka 0.1 0.1 0.1
+Kd 1 1 1
+Ks 0 0 0
+
+newmtl red
+Ka 0.1 0 0
+Kd 1 0 0
+Ks 0 0 0
+
+newmtl green
+Ka 0 0.1 0
+Kd 0 1 0
+Ks 0 0.1 0
+
+newmtl blue
+Ka 0 0 0.1
+Kd 0 0 1
+Ks 0 0 0
+
+newmtl light
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ke 20 20 20
+
+newmtl purple
+Ka 0.1 0 0.1
+Kd 1 0 1
+Ks 1 0 1
+
+newmtl orange
+Ka 0.1 0.05 0
+Kd 1 0.5 0
+Ks 1 0.5 0
+
+newmtl mirror
+Ka 0 0 0
+Kd 0.1 0.1 0.1
+Ks 1 1 1
+Ns 1024
+
+newmtl glass
+Ka 0 0 0
+Kd 0.9 0.9 0.9
+Ks 1 1 1
+d 0.1
+Ni 1.2
+Ns 1024

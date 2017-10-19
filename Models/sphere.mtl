@@ -1,0 +1,10 @@
+newmtl Default_Smoothing
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.215686 0.215686 0.215686
+Ni 1
+Ns 255
+Tf 1 1 1
+d 1
+map_Kd sphere.bmp
+

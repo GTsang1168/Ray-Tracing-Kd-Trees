@@ -1,0 +1,28 @@
+newmtl white
+Ns 1
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+
+newmtl red
+Ns 1
+Ka 0 0 0
+Kd 1 0 0
+Ks 0.5 0 0
+
+newmtl green
+Ns 1
+Ka 0 0 0
+Kd 0 1 0
+Ks 0 0.5 0
+
+newmtl blue
+Ns 1
+Ka 1 0 0
+Kd 0 0 1
+Ks 0 0 0.5
+
+newmtl light
+Ka 20 20 20
+Kd 1 1 1
+Ks 0 0 0
